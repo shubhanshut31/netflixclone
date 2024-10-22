@@ -36,7 +36,7 @@ Usually, people tend to run to CSS Frameworks to develop and style tabs and swit
 const tabItems = document.querySelectorAll(".tab-item");
 const tabContentItems = document.querySelectorAll(".tab-content-item");
 
-// Select tab content
+// Select Tab content
 function selectItem(e) {
   removeBorder();
   removeShow();
