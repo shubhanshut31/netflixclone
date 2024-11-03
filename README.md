@@ -15,7 +15,7 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 - HTML
 - CSS
 - Vanilla JS - ES6
-- [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of coding :-)
+- [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of Coding :-)
 
 ## What it does
 
