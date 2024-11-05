@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Clone of the Netflix website as a light HTML CSS and JS Excercise
+Clone of the Netflix website as a light HTML CSS and JS Excercise.
 
 _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 
